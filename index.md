@@ -1,6 +1,8 @@
 # Heading 1
 test123
-
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
 ```
 $ git initi
@@ -21,3 +23,5 @@ a = "Hello, world!";
 b =2+3
 disp(a)
 ```
+
+
